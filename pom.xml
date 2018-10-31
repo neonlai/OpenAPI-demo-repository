@@ -129,7 +129,6 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <classpathPrefix>lib/</classpathPrefix>
               <mainClass>com.excel.demo.DemoApplication</mainClass>
             </manifest>
           </archive>
